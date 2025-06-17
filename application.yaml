@@ -1,1 +1,6 @@
-
+---
+employee:
+  details:
+    service:
+      endpoint-url: http://localhost:8888/employee-service/employee/list
+...
