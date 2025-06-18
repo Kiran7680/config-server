@@ -2,5 +2,5 @@
 employee:
   details:
     service:
-      endpoint-url: http://localhost:8888/employee-service/employee/list
+      endpoint-url: http://localhost:8822/employee-service/employee/list
 ...
